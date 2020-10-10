@@ -6,3 +6,8 @@ This project made me extremly familiar with higher order functions. I used sever
 The code uses a source of data that has a array of objects data structure. 
 
 Comments were added, especially at the final function to better understand the process of calculations.
+
+Project inspired by:
+
+
+Haverbeke, Marijn. Eloquent JavaScript, 3rd Edition  No Starch Press. Kindle Edition. 
