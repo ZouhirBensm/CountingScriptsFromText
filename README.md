@@ -9,5 +9,29 @@ Comments were added, especially at the final function to better understand the p
 
 Project inspired by:
 
-
 Haverbeke, Marijn. Eloquent JavaScript, 3rd Edition  No Starch Press.
+
+
+Running the program:
+
+Step 0:
+
+Download the source code. Make note of the path it was downloaded in.
+
+Step 1:
+
+Read the source code with the comments on GitHub, your favorite text editor or IDE!
+
+Step 2:
+
+If you are running mac os as I am, simply install node.js.
+
+Step 3:
+
+In terminal type: node /Users/username/Downloads/05_10.js
+
+Step 4:
+
+Look at the outputs and re-run the program to see that any input in the source code generates the right output on the console!
+
+Thank you!
