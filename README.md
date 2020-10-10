@@ -10,4 +10,4 @@ Comments were added, especially at the final function to better understand the p
 Project inspired by:
 
 
-Haverbeke, Marijn. Eloquent JavaScript, 3rd Edition  No Starch Press. Kindle Edition. 
+Haverbeke, Marijn. Eloquent JavaScript, 3rd Edition  No Starch Press.
