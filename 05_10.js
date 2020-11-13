@@ -3,6 +3,9 @@
 //The ranges are quite important because we can determine what script name each UTF-16 code unit corresponds
 require("/Users/macminizouhir/Documents/JS/fileChapter5/scripts.js");
 
+//These are all utility functions that we need to operate the identification of the script name and the counting
+
+
 //Pushes a transformed element to a new array with the transform
 function map(array, transform){
 	let mapped = [];
@@ -12,7 +15,7 @@ function map(array, transform){
 	return mapped;
 }
 
-//Applies a combine operation to a dynami cchanging current value to an iterating element of an array  
+//Applies a combine operation to a dynamic changing current value to an iterating element of an array  
 function reduce(array, combine, start){
 	let current = start;
 	for(let element of array){
